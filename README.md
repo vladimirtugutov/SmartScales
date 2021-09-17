@@ -20,8 +20,9 @@ Backend был осуществлен с помощью фреймворка Fla
 Авторы
 
 https://github.com/Nik1-L
-https://github.com/arinashkanova
-https://github.com/vladimirtugutov
-P. S.
 
-Для запуска нашей модели локально необходимо локально установить Darknet и в нем поменять папки cfg и data на наши, а также в корень darknet загрузить веса модели. В папке web лежит все, что касается frontend, в папке utilites - backend.
+https://github.com/arinashkanova
+
+https://github.com/vladimirtugutov
+
+P. S. Для запуска нашей модели локально необходимо локально установить Darknet и в нем поменять папки cfg и data на наши, а также в корень darknet загрузить веса модели. В папке web лежит все, что касается frontend, в папке utilites - backend.
